@@ -27,3 +27,6 @@ See known issues here: https://docs.echo3d.co/unity/troubleshooting
 Refer to our [documentation](https://docs.echo3D.co/unity/) to learn more about how to use Unity and echo3D.
 # Support
 Feel free to reach out at [support@echo3D.co](mailto:support@echo3D.co) or join our [support channel on Slack](https://go.echo3D.co/join).
+
+## Screenshots
+![Screenshot](screenshot.png)
