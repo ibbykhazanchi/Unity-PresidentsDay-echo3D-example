@@ -151,7 +151,7 @@ public class TestScript : MonoBehaviour
     GameObject randomPresident()
     {
         var rand = new System.Random();
-        int index = rand.Next(0, presidents.Count);
+        int index = rand.Next(0, presidents.Count - 1);
         return presidents[index];
     }
 
