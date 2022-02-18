@@ -11,17 +11,14 @@ Unity 2020.3.26
 Run the game and click shuffle and stop shuffle to view the different presidents and their fun facts.
 
 # Setup
- Markup : * Bullet list
-              * Nested bullet
-                  * Sub-nested bullet etc
-          * Bullet list item 2
-*Clone the repo https://github.com/ibbykhazanchi/echo3D-presidents-day-demo.git
-*Install the echo3D Unity SDK
-*Download the 3D models in Models folder 
-*Go to echo3D console and click "Add to Cloud" and upload the models
-*Open the scene
-*Set the API key in the echo3D.cs script inside the echo3D\echo3D.prefab using the the Inspector
-*Build and run the AR application
+
+* Clone the repo https://github.com/ibbykhazanchi/echo3D-presidents-day-demo.git
+* Install the echo3D Unity SDK
+* Download the 3D models in Models folder 
+* Go to echo3D console and click "Add to Cloud" and upload the models
+* Open the scene
+* Set the API key in the echo3D.cs script inside the echo3D\echo3D.prefab using the the Inspector
+* Build and run the AR application
 
 # Troubleshooting
 See known issues here: https://docs.echo3d.co/unity/troubleshooting
