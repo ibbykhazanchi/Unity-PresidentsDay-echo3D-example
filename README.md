@@ -1,28 +1,23 @@
 # Unity-PresidentsDay-echo3D-example
-Import this project into your unity hub.
+Learn about the 5 most popular presidents with this 3D shuffle trivia in Unity.
 
 # Register
-Don't have an API key? Make sure to register for FREE at echo3D.
+Don't have an API key? Make sure to register for FREE at https://console.echo3d.co/#/auth/register.
 
 # Packages Used
-Unity 2019.4.0f1
-ARFoundation 3.1.0
-ARCore XR Plugin 3.1.0
-Android Build Support (Most updated versions)
-...Android SDK & NDK Tools
-...OpenJDK
+Unity 2020.3.26
 
 # How to Play
 Run the game and click shuffle and stop shuffle to view the different presidents and their fun facts.
 
 # Setup
-Clone the repo https://github.com/ibbykhazanchi/echo3D-presidents-day-demo.git
-Install the echo3D Unity SDK
-Download the 3D models in Models folder 
-Go to echo3D console and click "Add to Cloud" and upload the models
-Open the scene
-Set the API key in the echo3D.cs script inside the echo3D\echo3D.prefab using the the Inspector
-Build and run the AR application
+*Clone the repo https://github.com/ibbykhazanchi/echo3D-presidents-day-demo.git
+*Install the echo3D Unity SDK
+*Download the 3D models in Models folder 
+*Go to echo3D console and click "Add to Cloud" and upload the models
+*Open the scene
+*Set the API key in the echo3D.cs script inside the echo3D\echo3D.prefab using the the Inspector
+*Build and run the AR application
 
 # Troubleshooting
 See known issues here: https://docs.echo3d.co/unity/troubleshooting
