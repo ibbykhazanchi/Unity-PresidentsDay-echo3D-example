@@ -1,4 +1,4 @@
-# echo3D-presidents-day-demo
+# Unity-PresidentsDay-echo3D-example
 Import this project into your unity hub.
 
 # Register
