@@ -12,7 +12,7 @@ Run the game and click shuffle and stop shuffle to view the different presidents
 
 # Setup
 
-* Clone the repo https://github.com/ibbykhazanchi/echo3D-presidents-day-demo.git
+* Clone the [repo] (https://github.com/ibbykhazanchi/echo3D-presidents-day-demo.git)
 * Install the echo3D Unity SDK
 * Download the 3D models in Models folder 
 * Go to echo3D console and click "Add to Cloud" and upload the models
