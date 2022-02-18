@@ -2,6 +2,7 @@ using System.ComponentModel;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 using TMPro;
 
 public class TestScript : MonoBehaviour
@@ -42,6 +43,22 @@ public class TestScript : MonoBehaviour
     {
         if (!presidentsFound)
         {
+
+            GameObject bg = GameObject.Find("wh.jpeg");
+            if (bg != null)
+            {
+                bg.transform.rotation *= Quaternion.Euler(85, 180, 0);
+                bg.transform.position = new Vector3(0, 30, 50);
+
+                Image image = bg.GetComponent<Image>();
+                if (image != null)
+                {
+                    var tempColor = image.color;
+                    tempColor.a = 0f;
+                    image.color = tempColor;
+                }
+            }
+
 
             findAndInitializePres(
                 "Theodore Roosevelt.jpeg",
